@@ -10,6 +10,10 @@ A python module for the multi-dimensional scaling of networks. MDScaling takes t
 
 *Ramaciotti Morales, P., Cointet, J.-P., & Laborde, P. (2020, December). Your most telling friends: Propagating latent ideological features on Twitter using neighborhood coherence. In 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM). IEEE.*
 
+**Acknowledgement:**
+
+The ANR project GOPI (ANR-19-CE38-0006) is supporting this repository
+
 ### Instalation
 
     pip install mdscaling
